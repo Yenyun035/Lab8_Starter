@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+Yen-Yun Wu
+
 1. In your own words: Where would you fit your automated tests in your Recipe project development pipeline?
     - Whenever code is pushed to the repo, it will be executed through GitHub Action
     - Before pushing code to the repo, it can be run locally first
